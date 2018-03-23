@@ -1,0 +1,46 @@
+﻿body {
+}
+#reservation-bg {
+    background-image: url(images/car-rental-stock1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.black-bg {
+    background:rgba(0,0,0,.5);
+    background-size:contain;
+    padding:10px;
+}
+#white-bg{
+    background:rgba(255, 255, 255,.55);
+
+}
+.reserveCol{
+ 
+ margin:auto;
+ float:none
+}
+.home-bg{
+    background-image: url(Images/car-travel.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    min-height:900px;
+}
+
+
+.aboutUs-bg{
+    background-image: url(Images/car-sunset.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    min-height:900px;
+}
+
+.centerDiv{
+    margin-left:auto;
+    margin-right:auto;
+    width:100%;
+    position:absolute;
+    align-content:center;
+    
+}
